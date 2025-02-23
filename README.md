@@ -36,8 +36,9 @@ MemWipe is a **lightweight memory optimization tool** designed to **free up syst
 
 ## Installation  
 1. **Download MemWipe** from the [latest release](https://github.com/dudetechitout/memwipe/releases).  
-2. Run the installer and follow the on-screen instructions.  
-3. Launch MemWipe and customize your settings as needed.  
+2. Extract the files (if applicable).  
+3. Run **MemWipe.exe** — no installation required.  
+4. Customize your settings as needed for automatic or manual memory optimization.  
 
 ---
 
