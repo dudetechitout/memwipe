@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MemWipe
+</name>
+</assembly>
+<members>
+<member name="M:MemWipe.DnsCacheCleaner.ClearDnsCache">
+	<summary>
+ Clears the DNS cache.
+ </summary>
+</member><member name="P:MemWipe.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MemWipe.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MemWipe.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:MemWipe.HeapManager.CompactHeap">
+	<summary>
+ Compacts the process heap memory to reduce fragmentation.
+ </summary>
+</member>
+</members>
+</doc>

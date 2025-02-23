@@ -1,0 +1,9 @@
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\obj\x86\Debug\MemWipe.Form1.resources
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\obj\x86\Debug\MemWipe.Resources.resources
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\obj\x86\Debug\MemWipe.vbproj.GenerateResource.Cache
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\bin\Debug\MemWipe.exe
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\bin\Debug\MemWipe.pdb
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\bin\Debug\MemWipe.xml
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\obj\x86\Debug\MemWipe.exe
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\obj\x86\Debug\MemWipe.xml
+C:\Users\mush\documents\visual studio 2010\Projects\MemWipe\MemWipe\obj\x86\Debug\MemWipe.pdb
