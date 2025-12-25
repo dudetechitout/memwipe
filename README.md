@@ -59,11 +59,3 @@ We welcome contributions! To contribute:
    ```sh
    git clone https://github.com/yourusername/memwipe.git
    cd memwipe
-
-## Consider Donating  
-
-MemWipe is **free and open-source**, but if you find it useful and want to support further development, consider making a donation. Your support helps me continue improving MemWipe and building new projects.  
-
-👉 **[Donate Here](https://dudetechitout.com/donate)**  
-
-Every contribution is appreciated!
